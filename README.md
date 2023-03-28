@@ -9,7 +9,7 @@ A responsive website to promote a local barber shop.
 
 **Tech used:** HTML, CSS, And JavaScript
 
-This website was created using HTML, CSS and JavaScript. The goal of this project was to understand the flexibility and usage of different elements in conjunction with responsive design. I really used this project as a ease in to truly understand conecepts like the box model and responsive design.
+This website was created using HTML, CSS and JavaScript. The goal of this project was to understand the flexibility and usage of different elements in conjunction with responsive design. I really used this project as a ease in to truly understand conecepts like the box model, responsive design and using breakpoints and media queries.
 
 
 ## Growth:
